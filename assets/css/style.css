@@ -78,3 +78,25 @@ p {
       position: relative;
       color: #E0E0E0;
   }
+
+  #logo {
+    max-width: 50%;
+    max-height: 50%;
+  }
+
+  #bannerid {
+    top: 0;
+left: 0;
+position: relative;
+width: 100%;
+height: 100%;
+
+
+    background-color: #1E2341;
+    color: #E0E0E0;
+    
+  }
+
+  h1 {
+    position: relative;
+  }
