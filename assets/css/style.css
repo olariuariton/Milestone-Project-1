@@ -1,106 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Meow+Script&family=Open+Sans&display=swap');
+
 p {
-    font-size: 1rem;
-  }
-  a {
-    text-decoration: none;
-    color: white;
-  }
-  
-  
-  /* footer */
-  
-  footer {
-      height: 100px;
-  }
-  
-  .social-networks {
-      text-align: center;
-      background-color: color rgba(0,0,0,.55);
-  }
-  
-  .social-networks li{
-      display: inline;
-  }
-  
-  .social-networks i{
-      font-size: 160%;
-      margin: 1%;
-      padding: 5%;
-      color: #1E2341;
-  }
-  /* Gallery image size */
-  
-  .images {
-    height: 25%;
-    width: auto;
-    margin: 10px;
-    margin-top: 15px;
-    
-  }
-  
-  #photo {
-      clear: both;
-      line-height: 0;
-      column-count: 4;
-      column-gap: 0px;
-  }
-  
-  #photo img{
-      width: 100%;
-  }
-  
-  .container {
-    position: relative;
-    overflow: hidden;
-    width: 100%;
-    padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
-  }
-  
-  /* Then style the iframe to fit in the container div with full height and width */
-  .responsive-iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    width: 100%;
-    height: 100%;
-  }
-  
-  .formular {
-    margin-left: 10px;
-  }
-  
-  #wrapper {
-      height: 100%;
-      min-height: 100%;
-      height: auto !important;
-      position: relative;
-      color: #E0E0E0;
-  }
+  font-size: 1rem;
+  font-family: 'Meow Script', cursive;
+  font-family: 'Open Sans', sans-serif;
+}
 
-  #logo {
-    max-width: 50%;
-    max-height: 50%;
-  }
+h2,
+h3 {
+  font-family: 'Meow Script', cursive;
+  font-family: 'Open Sans', sans-serif;
+}
 
-  #bannerid {
-    top: 0;
-left: 0;
-position: relative;
-width: 100%;
-height: 200px;
+a {
+  text-decoration: none;
+  color: white;
+}
 
 
-    background-color: #1E2341;
-    color: #E0E0E0;
-    margin-bottom: 0px;
-    
-  }
+/* footer */
 
-  h1 {
-    text-align: center;
-    padding-top: 60px;
-  }
+footer {
+  height: 50px;
+}
 
-  
+.footer {
+  text-align: center;
+  background-color: #1E2341;
+}
+
+.footer li {
+  display: inline;
+}
+
+.footer i {
+  font-size: 100%;
+  margin: 1%;
+  padding: 5%;
+  color: #fff;
+}
+
+/* Gallery image size */
+
+.images {
+  height: 25%;
+  width: auto;
+  margin: 10px;
+  margin-top: 15px;
+
+}
+
+#photo {
+  clear: both;
+  line-height: 0;
+  column-count: 4;
+  column-gap: 0px;
+}
+
+#photo img {
+  width: 100%;
+}
+
+.container {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%;
+  /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.formular {
+  margin-left: 10px;
+}
+
+#wrapper {
+  height: 100%;
+  min-height: 100%;
+  height: auto !important;
+  position: relative;
+  color: #E0E0E0;
+}
+
+#logo {
+  max-width: 50%;
+  max-height: 50%;
+}
