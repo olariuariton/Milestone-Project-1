@@ -11,6 +11,11 @@ h2, h3 {
   font-family: 'Open Sans', sans-serif;
 }
 
+h2 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
 a {
   text-decoration: none;
   color: white;
@@ -21,22 +26,30 @@ a {
 
 .footer{
   height: 150px;
+  
 }
 
-.social-networks{
+.footer-background {
+  height: 150px;
+  width:auto;
+  background-color: #1F223D;
+}
+
+.footer-links{
   text-align: center;
 
 }
 
-.social-networks li{
+.footer-links li{
   display: inline;
+  
 }
 
-.social-networks i{
-  font-size: 160%;
+.footer-links i{
+  font-size: 180%;
   margin: 1%;
-  padding: 5%;
-  color: #284b74;
+  padding: 3%;
+  color: #777777;
 }
 
 /* Gallery image size */
