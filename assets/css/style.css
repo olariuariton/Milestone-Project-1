@@ -19,24 +19,24 @@ a {
 
 /* footer */
 
-footer {
-  height: 50px;
+.footer{
+  height: 150px;
 }
 
-.footer {
+.social-networks{
   text-align: center;
-  background-color: #1E2341;
+
 }
 
-.footer li {
+.social-networks li{
   display: inline;
 }
 
-.footer i {
-  font-size: 100%;
+.social-networks i{
+  font-size: 160%;
   margin: 1%;
   padding: 5%;
-  color: #fff;
+  color: #284b74;
 }
 
 /* Gallery image size */
