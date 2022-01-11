@@ -112,3 +112,7 @@ a {
 .margine {
   margin: 5px;
 }
+
+.incpad {
+  padding-top: 10px;
+}
