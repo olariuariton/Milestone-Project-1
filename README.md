@@ -5,7 +5,7 @@
 ## Technologies used:
 - HTML 5, CSS and Bootstrap
 
-<h2 align="center"><img src="https://i.ibb.co/jJQ702R/Responsive.jpg"></h2>
+<h2 align="center"><img src="https://i.ibb.co/CsJjnQ1/Capture.jpg" alt="banner"></h2>
 
 
 
@@ -13,7 +13,7 @@
 
 ### A banner with logo and motto 
 
-<img src="https://i.ibb.co/mv54RdG/Screenshot-2022-01-10-at-20-54-48.png" alt="Banner" border="0" width="600" height="200">
+<img src="https://i.ibb.co/Hz4QQr2/banner.png" alt="banner" border="0">
 
 
 ### A responsive navbar that contains a link to the home gallery and contact us
