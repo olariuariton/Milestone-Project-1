@@ -54,6 +54,11 @@
 
 <img src="https://i.ibb.co/r3QLNzw/Screenshot-2022-01-10-at-21-39-10.png" alt="Screenshot-2022-01-10-at-21-39-10" border="0">
 
+# Testing:
+
+All links and images have been manually tested. 
+
+
 
 # Credits to:
 - https://startbootstrap.com/snippets/thumbnail-gallery - For providing the code for the gallery.
