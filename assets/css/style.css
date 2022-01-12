@@ -73,7 +73,7 @@ a {
   width: 100%;
 }
 
-.container {
+.containe {
   position: relative;
   overflow: hidden;
   width: 100%;
@@ -92,26 +92,7 @@ a {
   height: 100%;
 }
 
-.formular {
-  margin-left: 10px;
-}
 
-#wrapper {
-  height: 100%;
-  min-height: 100%;
-  height: auto !important;
-  position: relative;
-  color: #E0E0E0;
-}
-
-#logo {
-  max-width: 50%;
-  max-height: 50%;
-}
-
-.margine {
-  margin: 5px;
-}
 
 .incpad {
   padding-top: 10px;
